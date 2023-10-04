@@ -18,6 +18,8 @@ Here you can find links to some of my projects that best demonstrate my skills:
 - [Grok-Media](http://grok-media.ru/)
 - [MIK (pet-project)](https://cuzmyk.github.io/MIK/)
 
+## My contacts
+
 You can contact me through the following social networks:
 
 - [Telegram](https://t.me/cuzmyk)
