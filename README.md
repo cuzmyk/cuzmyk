@@ -1,4 +1,4 @@
-### GREATINGS
+# GREATINGS
 
 ## My name is Mikhail, I am a frontend developer
 
