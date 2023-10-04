@@ -1,4 +1,4 @@
-### Hello
+### GREATINGS
 
 ## My name is Mikhail, I am a frontend developer
 
@@ -16,6 +16,7 @@ Here you can find links to some of my projects that best demonstrate my skills:
 - [Екатерина Детман - Нутрициолог](https://detman-rpp.ru/)
 - [Grok-Media](http://grok-media.ru/)
 - [MIK (pet-project)](https://cuzmyk.github.io/MIK/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 You can contact me through the following social networks:
 
