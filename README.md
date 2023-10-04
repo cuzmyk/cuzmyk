@@ -1,4 +1,5 @@
 ### Hello
+
 ## My name is Mikhail, I am a frontend developer
 
 ## My skills
@@ -9,12 +10,16 @@
 
 ## My projects
 
-Тут вы найдёте ссылки на несколько из моих проектов, которые лучше всего демонстрируют мои навыки:
+Here you can find links to some of my projects that best demonstrate my skills:
 
-- [Grok-Media (wedding)]((http://grok-media.ru/wedding/))
-- [Екатерина Детман - Нутрициолог]((https://detman-rpp.ru/))
-- [Grok-Media]((http://grok-media.ru/))
-- [MIK (pet-project)]((https://cuzmyk.github.io/MIK/))
+- [Grok-Media (wedding)](http://grok-media.ru/wedding/)
+- [Екатерина Детман - Нутрициолог](https://detman-rpp.ru/)
+- [Grok-Media](http://grok-media.ru/)
+- [MIK (pet-project)](https://cuzmyk.github.io/MIK/)
 
-Больше моих работ вы можете найти в моём портфолио, или, перейдя на мою главную страницу Github. Если у вас есть вопросы или хотели бы обсудить возможность сотрудничества, не стесняйтесь связаться со мной.
+You can contact me through the following social networks:
+
+- [Telegram](https://t.me/cuzmyk)
+- [WhatsApp](https://wa.me/79167518747)
+- [VKontakte](https://vk.com/cuzmyk)
 
