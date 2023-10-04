@@ -7,6 +7,7 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black)](#)
 [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 ## My projects
 
@@ -16,7 +17,6 @@ Here you can find links to some of my projects that best demonstrate my skills:
 - [Екатерина Детман - Нутрициолог](https://detman-rpp.ru/)
 - [Grok-Media](http://grok-media.ru/)
 - [MIK (pet-project)](https://cuzmyk.github.io/MIK/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 You can contact me through the following social networks:
 
